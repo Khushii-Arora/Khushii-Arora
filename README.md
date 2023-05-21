@@ -27,9 +27,6 @@
 <a href="https://leetcode.com/KhushiArora/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
 
 ## 🏆 GitHub Trophies
 
