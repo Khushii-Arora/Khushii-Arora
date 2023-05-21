@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Khushi Arora
 
-## 💫 Liitle Bit More About Me
+## 💫 A Bit More About Me
 <p>👯 Collaborate on MERN projects</p>
 <p>🌱 I'm currently learning Node Js</p>
 <p>💬 Ask me about Front End Dev</p>
